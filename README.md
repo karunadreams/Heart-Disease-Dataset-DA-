@@ -15,7 +15,7 @@ Heart Disease EDA - Corrlation (PairPlot)
 
 Heart Disease EDA - Correlation - (JointPlot)
 
-#Heart Disease EDA - Age (DistPlot)
+*Heart Disease EDA - Age (DistPlot)*
 
 In seaborn, a distplot is a function that plots a histogram, kernel density estimate (KDE) plot, and/or rug plot on a single figure. It is used to visualize the distribution of a single continuous variable.
 So after doing the visualization we can infer that minimum age is around 30 and maximum age is around 80. Maximum of the data falls within the range of 40 to 70.
